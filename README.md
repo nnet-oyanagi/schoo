@@ -54,5 +54,3 @@ Tech界隈ならちょっとニヤッとするようなネタも収録してい�
 - マンガでわかるDocker ツイッターアカウント： https://twitter.com/webdesignmanga
 
 2/25
-
-8/20
